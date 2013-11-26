@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">igsearch</string>
+    <string name="hello_world">elemental</string>
+    <string name="title_activity_card">CardActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="glass_voice_trigger">elemental</string>
+    <string name="glass_voice_prompt">tell me a keyword for lookup</string>    
+</resources>
